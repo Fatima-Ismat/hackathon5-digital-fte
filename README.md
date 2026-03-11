@@ -1,6 +1,14 @@
 # Hackathon 5 – Customer Success Digital FTE
 ## NovaSync Technologies | SyncFlow AI Support Agent
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Stage](https://img.shields.io/badge/Stage-1-orange)
+![Hackathon](https://img.shields.io/badge/Hackathon-5-purple)
+![AI Agent](https://img.shields.io/badge/AI-Agent-success)
+![Prototype](https://img.shields.io/badge/Status-Incubation-yellow)
+![Docs](https://img.shields.io/badge/Docs-Complete-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+
 > **Stage 1: Incubation / Prototype**
 > This repository is the complete Stage 1 submission for Hackathon 5. It represents the exploration, discovery, and prototype-building phase — not production code. Every design decision documented here was driven by data from sample tickets, iterative prompt refinement, and systematic edge-case testing.
 
