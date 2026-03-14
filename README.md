@@ -16,11 +16,9 @@
 
 ## 🎥 Demo Video
 
-Watch the Stage 1 demo video here:
-https://www.youtube.com/watch?v=fWsSoiT1vOQ
+[![Watch the Demo](https://img.youtube.com/vi/fWsSoiT1vOQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=fWsSoiT1vOQ)
 
-GitHub Repository:
-https://github.com/Fatima-Ismat/hackathon5-digital-fte
+Watch the Stage 1 demo video.
 
 ---
 
