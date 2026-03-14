@@ -14,6 +14,16 @@
 
 ---
 
+## 🎥 Demo Video
+
+Watch the Stage 1 demo video here:
+https://www.youtube.com/watch?v=fWsSoiT1vOQ
+
+GitHub Repository:
+https://github.com/Fatima-Ismat/hackathon5-digital-fte
+
+---
+
 ## Stage 1 At a Glance
 
 | What | How Much |
